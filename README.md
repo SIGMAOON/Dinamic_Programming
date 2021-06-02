@@ -1,2 +1,2 @@
 # Dynamic_Programming
-leetcode DYnamic Programming problem solving
+leetcode Dynamic Programming problem solving
